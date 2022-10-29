@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+
+.todo-list {
+  list-style: none;
+}
+
+.todo-list li {
+  font-weight: bold;
+}
+
+
+.deleteAll button{
+  /* position: absolute; */
+  background-color:gray;
+  color: #fff;
+  border:none;
+  border-radius:5px;
+  box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+  margin-right: 25px;
+}
+
+.deleteAll button:hover {
+  background-color: red;
+}
