@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-top: 2px;
+}
+
+.first {
+    background-color: tomato;
+}
+
+.second {
+    background-color: dodgerblue;
+}
+
+.third {
+    background-color: olivedrab;
+}
+
+.fourth {
+    background-color: darkorange;
+}

@@ -1,0 +1,20 @@
+.context-wrapper {
+    display: flex;
+    justify-content: right;
+    /* width: 20%; */
+}
+.context-box {
+    width: 20%;
+    height: 10%;
+    background-color: gray;
+
+}
+
+.context-box p {
+    color: antiquewhite;
+}
+
+.btns {
+    display: flex;
+    justify-content: right;
+}
